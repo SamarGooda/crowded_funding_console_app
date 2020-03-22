@@ -2,6 +2,6 @@ node {
    def mvnHome
  
    stage('Results') {
-       ls
+       echo "hello"
    }
 }
